@@ -1,0 +1,7 @@
+---
+title: "EVA Data Display"
+type: "challenge"
+description: ""
+tags: "javascript,nodejs,express,postgres,databases"
+ignore:
+- "eva-data-display.md"
